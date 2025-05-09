@@ -1,0 +1,17 @@
+/*auqnd j4ppuis sur bouton d4une piwwq checrhr id puizza dans le tableau de pizza 
+
+option 
+1- ya pas donc on tle creer un objet (nom, prix, quantité, total),
+2- si ils existe ont incrmenete la quantitre de 1,
+
+
+
+Comment faire
+
+Le npom de pizza
+la quantie le prix (1 part)
+le total
+un boutton supprimer 
+
+
+ont dit merci chatgpt pour m'avoir dit que pour faire des zero je fait toFixed(2), ca obblige donc le chiffre a avoir 2 décimal mais vus que c un chiffre rond ca fait 00 donc c parfait*/
